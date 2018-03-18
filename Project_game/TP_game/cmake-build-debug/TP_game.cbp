@@ -84,10 +84,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/allozo/git/c++/TP_game/Army_builder.h">
+			<Option target="TP_game"/>
+		</Unit>
+		<Unit filename="/home/allozo/git/c++/TP_game/Factory_Of_Dwarves.h">
+			<Option target="TP_game"/>
+		</Unit>
+		<Unit filename="/home/allozo/git/c++/TP_game/Factory_Of_Elf.h">
+			<Option target="TP_game"/>
+		</Unit>
+		<Unit filename="/home/allozo/git/c++/TP_game/Factory_Of_Men.h">
+			<Option target="TP_game"/>
+		</Unit>
+		<Unit filename="/home/allozo/git/c++/TP_game/Unit_Of_Dwarve.h">
+			<Option target="TP_game"/>
+		</Unit>
+		<Unit filename="/home/allozo/git/c++/TP_game/Unit_Of_Elf.h">
+			<Option target="TP_game"/>
+		</Unit>
 		<Unit filename="/home/allozo/git/c++/TP_game/Unit_Of_Men.h">
 			<Option target="TP_game"/>
 		</Unit>
-		<Unit filename="/home/allozo/git/c++/TP_game/main.cpp">
+		<Unit filename="/home/allozo/git/c++/TP_game/test.cpp">
 			<Option target="TP_game"/>
 		</Unit>
 		<Unit filename="/home/allozo/git/c++/TP_game/CMakeLists.txt">

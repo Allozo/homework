@@ -57,38 +57,38 @@ include CMakeFiles/TP_game.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TP_game.dir/flags.make
 
-CMakeFiles/TP_game.dir/main.cpp.o: CMakeFiles/TP_game.dir/flags.make
-CMakeFiles/TP_game.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/allozo/git/c++/TP_game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TP_game.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TP_game.dir/main.cpp.o -c /home/allozo/git/c++/TP_game/main.cpp
+CMakeFiles/TP_game.dir/test.cpp.o: CMakeFiles/TP_game.dir/flags.make
+CMakeFiles/TP_game.dir/test.cpp.o: ../test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/allozo/git/c++/TP_game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TP_game.dir/test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TP_game.dir/test.cpp.o -c /home/allozo/git/c++/TP_game/test.cpp
 
-CMakeFiles/TP_game.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TP_game.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/allozo/git/c++/TP_game/main.cpp > CMakeFiles/TP_game.dir/main.cpp.i
+CMakeFiles/TP_game.dir/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TP_game.dir/test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/allozo/git/c++/TP_game/test.cpp > CMakeFiles/TP_game.dir/test.cpp.i
 
-CMakeFiles/TP_game.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TP_game.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/allozo/git/c++/TP_game/main.cpp -o CMakeFiles/TP_game.dir/main.cpp.s
+CMakeFiles/TP_game.dir/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TP_game.dir/test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/allozo/git/c++/TP_game/test.cpp -o CMakeFiles/TP_game.dir/test.cpp.s
 
-CMakeFiles/TP_game.dir/main.cpp.o.requires:
+CMakeFiles/TP_game.dir/test.cpp.o.requires:
 
-.PHONY : CMakeFiles/TP_game.dir/main.cpp.o.requires
+.PHONY : CMakeFiles/TP_game.dir/test.cpp.o.requires
 
-CMakeFiles/TP_game.dir/main.cpp.o.provides: CMakeFiles/TP_game.dir/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/TP_game.dir/build.make CMakeFiles/TP_game.dir/main.cpp.o.provides.build
-.PHONY : CMakeFiles/TP_game.dir/main.cpp.o.provides
+CMakeFiles/TP_game.dir/test.cpp.o.provides: CMakeFiles/TP_game.dir/test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/TP_game.dir/build.make CMakeFiles/TP_game.dir/test.cpp.o.provides.build
+.PHONY : CMakeFiles/TP_game.dir/test.cpp.o.provides
 
-CMakeFiles/TP_game.dir/main.cpp.o.provides.build: CMakeFiles/TP_game.dir/main.cpp.o
+CMakeFiles/TP_game.dir/test.cpp.o.provides.build: CMakeFiles/TP_game.dir/test.cpp.o
 
 
 # Object files for target TP_game
 TP_game_OBJECTS = \
-"CMakeFiles/TP_game.dir/main.cpp.o"
+"CMakeFiles/TP_game.dir/test.cpp.o"
 
 # External object files for target TP_game
 TP_game_EXTERNAL_OBJECTS =
 
-TP_game: CMakeFiles/TP_game.dir/main.cpp.o
+TP_game: CMakeFiles/TP_game.dir/test.cpp.o
 TP_game: CMakeFiles/TP_game.dir/build.make
 TP_game: CMakeFiles/TP_game.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/allozo/git/c++/TP_game/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TP_game"
@@ -99,7 +99,7 @@ CMakeFiles/TP_game.dir/build: TP_game
 
 .PHONY : CMakeFiles/TP_game.dir/build
 
-CMakeFiles/TP_game.dir/requires: CMakeFiles/TP_game.dir/main.cpp.o.requires
+CMakeFiles/TP_game.dir/requires: CMakeFiles/TP_game.dir/test.cpp.o.requires
 
 .PHONY : CMakeFiles/TP_game.dir/requires
 

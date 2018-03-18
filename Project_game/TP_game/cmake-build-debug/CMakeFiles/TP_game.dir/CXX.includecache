@@ -6,13 +6,41 @@
 
 #IncludeRegexTransform: 
 
+/home/allozo/git/c++/TP_game/Army_builder.h
+vector
+-
+Factory_Of_Men.h
+/home/allozo/git/c++/TP_game/Factory_Of_Men.h
+Factory_Of_Dwarves.h
+/home/allozo/git/c++/TP_game/Factory_Of_Dwarves.h
+Factory_Of_Elf.h
+/home/allozo/git/c++/TP_game/Factory_Of_Elf.h
+
+/home/allozo/git/c++/TP_game/Factory_Of_Dwarves.h
+Unit_Of_Dwarve.h
+/home/allozo/git/c++/TP_game/Unit_Of_Dwarve.h
+
+/home/allozo/git/c++/TP_game/Factory_Of_Elf.h
+Unit_Of_Elf.h
+/home/allozo/git/c++/TP_game/Unit_Of_Elf.h
+
+/home/allozo/git/c++/TP_game/Factory_Of_Men.h
+Unit_Of_Men.h
+/home/allozo/git/c++/TP_game/Unit_Of_Men.h
+
+/home/allozo/git/c++/TP_game/Unit_Of_Dwarve.h
+iostream
+-
+
+/home/allozo/git/c++/TP_game/Unit_Of_Elf.h
+iostream
+-
+
 /home/allozo/git/c++/TP_game/Unit_Of_Men.h
 iostream
 -
 
-/home/allozo/git/c++/TP_game/main.cpp
-vector
--
-Unit_Of_Men.h
-/home/allozo/git/c++/TP_game/Unit_Of_Men.h
+/home/allozo/git/c++/TP_game/test.cpp
+Army_builder.h
+/home/allozo/git/c++/TP_game/Army_builder.h
 

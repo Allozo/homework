@@ -18,7 +18,7 @@ public:
 class Men_infantry : public Unit_of_men {
 public:
     void info() override {
-        cout << "This is Men_infantry" << endl;
+        cout << "  This is Men_infantry" << endl;
     }
 
     void attack() override {
@@ -34,7 +34,7 @@ public:
 class Men_arbalesters : public Unit_of_men {
 public:
     void info() override {
-        cout << "This is Men_arbalesters" << endl;
+        cout << "  This is Men_arbalesters" << endl;
     }
 
     void attack() override {
@@ -49,7 +49,7 @@ public:
 class Men_cavalry : public Unit_of_men {
 public:
     void info() override {
-        cout << "This is Men_cavalry" << endl;
+        cout << "  This is Men_cavalry" << endl;
     }
 
     void attack() override {
