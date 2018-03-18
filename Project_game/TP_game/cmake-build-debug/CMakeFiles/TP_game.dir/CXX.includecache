@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/allozo/git/c++/TP_game/Unit_Of_Men.h
+iostream
+-
+
+/home/allozo/git/c++/TP_game/main.cpp
+vector
+-
+Unit_Of_Men.h
+/home/allozo/git/c++/TP_game/Unit_Of_Men.h
+
