@@ -1,3 +1,4 @@
+#pragma once
 #include "Unit_Of_Dwarve.h"
 
 // Фабрика гномов

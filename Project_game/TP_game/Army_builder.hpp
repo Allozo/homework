@@ -1,7 +1,7 @@
 #include <vector>
-#include "Factory_Of_Men.h"
-#include "Factory_Of_Dwarves.h"
-#include "Factory_Of_Elf.h"
+#include "Unit_Of_Dwarve.h"
+#include "Unit_Of_Elf.h"
+#include "Unit_Of_Men.h"
 
 class Army {
 public:

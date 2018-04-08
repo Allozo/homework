@@ -1,4 +1,4 @@
-/home/allozo/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/173.4674.29/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/allozo/git/c++/TP_game
+/home/allozo/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/173.4674.29/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/allozo/git/c++/homework/Project_game/TP_game
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/allozo/git/c++/TP_game/cmake-build-debug
+-- Build files have been written to: /home/allozo/git/c++/homework/Project_game/TP_game/cmake-build-debug
