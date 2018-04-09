@@ -1,7 +1,7 @@
-#include "Army_builder.h"
-#include "Factory_Of_Men.h"
-#include "Factory_Of_Dwarves.h"
-#include "Factory_Of_Elf.h"
+#include "Army_builder.hpp"
+#include "Factory_Of_Men.hpp"
+#include "Factory_Of_Dwarves.hpp"
+#include "Factory_Of_Elf.hpp"
 
 using namespace std;
 
